@@ -4,11 +4,11 @@
   dates: 2019 - Present
   qualification: Post Graduate Program
   quote: >
-    Established in 2019
+    TLF is an outcome of the collective founding vision. The program has been designed to create tech leaders who will lead organizations, build path-breaking ventures and help solve real world challenges for India and the world.
   description: | # this will include new lines to allow paragraphs
-    Plaksha TLF 
+    TLF is built on four intertwined threads - Data-X coursework (AI and ML, design and systems thinking), Real-world Projects (Challenge Lab and Capstone Project), Guest Sessions by domain experts, business leaders and entrepreneurs, and Leadership and Mentorship. The Capstone is an intense AI and ML centric projects across three months at leading corporations or research labs. 
 
-- layout: left
+- layout: right
   name: NIT Kurukshetra
   link: nitkkr.ac.in
   dates: 2012 - 2016
