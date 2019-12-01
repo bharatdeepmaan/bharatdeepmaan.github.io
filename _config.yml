@@ -1,5 +1,5 @@
 # Site
-repository: sproogen/resume-theme
+repository: bharatdeepmaan/bharatdeepmaan.github.io
 # favicon: images/favicon.ico
 
 # Personal info
@@ -15,7 +15,7 @@ github_username:  bharatdeepmaan
 # facebook_username: jekyll
 # flickr_username: jekyll
 instagram_username: bharatdeep.maan
-linkedin_username: in/bharatmaan/
+linkedin_username: in//bharatmaan
 # pinterest_username: jekyll
 #youtube_username: globalmtb
 # googleplus_username: +jekyll
@@ -50,7 +50,7 @@ more_content: | # this will include new lines to allow paragraphs
 footer_show_references: true
 
 # Build settings
-remote_theme: sproogen/resume-theme
+remote_theme: bharatdeepmaan/bharatdeepmaan.github.io
 
 sass:
   sass_dir: _sass
