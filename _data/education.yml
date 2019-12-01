@@ -1,14 +1,9 @@
 - layout: left
-  name: Plaksha Tech Leaders Fellowship
+  name: Tech Leaders Fellowship
   link: plaksha.org/techleaders
   dates: 2019 - Present
-  qualification: Post Graduate Program
   description: | # this will include new lines to allow paragraphs
-    'Tech Leaders Fellowship' has been designed to create tech leaders who will lead organizations, build path-breaking ventures and help solve real world challenges for India and the world. TLF is built on four intertwined threads - 
-    1. Data-X coursework (AI and ML, design and systems thinking)
-    2. Real-world Projects (Two Data-X Projects, Challenge Lab and Capstone Project) 
-    3. Guest Sessions by domain experts, business leaders and entrepreneurs 
-    4. Leadership and Mentorship. 
+    The fellowship has been designed to create tech leaders who will lead organizations, build path-breaking ventures and help solve real world challenges for India and the world.
 
 - layout: left
   name: NIT Kurukshetra
