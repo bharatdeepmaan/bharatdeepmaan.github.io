@@ -4,9 +4,13 @@
   dates: 2019 - Present
   qualification: Post Graduate Program
   quote: >
-    TLF is an outcome of the collective founding vision. The program has been designed to create tech leaders who will lead organizations, build path-breaking ventures and help solve real world challenges for India and the world.
+    'Tech Leaders Fellowship' has been designed to create tech leaders who will lead organizations, build path-breaking ventures and help solve real world challenges for India and the world.
   description: | # this will include new lines to allow paragraphs
-    TLF is built on four intertwined threads - Data-X coursework (AI and ML, design and systems thinking), Real-world Projects (Challenge Lab and Capstone Project), Guest Sessions by domain experts, business leaders and entrepreneurs, and Leadership and Mentorship. The Capstone is an intense AI and ML centric projects across three months at leading corporations or research labs. 
+    TLF is built on four intertwined threads - 
+    1. Data-X coursework (AI and ML, design and systems thinking)
+    2. Real-world Projects (Two Data-X Projects, Challenge Lab and Capstone Project) 
+    3. Guest Sessions by domain experts, business leaders and entrepreneurs 
+    4. Leadership and Mentorship. 
 
 - layout: left
   name: NIT Kurukshetra
