@@ -4,7 +4,7 @@ repository: sproogen/resume-theme
 
 # Personal info
 name: Bharatdeep Singh Maan
-title: Product Enthusiast
+title: Problem Solver with a Vision
 email: bharatdeep.maan@gmail.com
 website: https://bharatdeepmaan.github.io/
 
@@ -24,9 +24,9 @@ linkedin_username: https://www.linkedin.com/in/bharatmaan/
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Bharat and I'm currently a student at Plaksha Tech Leaders Fellowship. I have experience making softwares, analyzing data and building machine learning models. I have worked at HSBC for three years gaining teamwork and leadership skills.
+  Hi, my name's Bharat and I'm currently a student at Plaksha Tech Leaders Fellowship. I have experience in making softwares, analyzing data, building ML models and developing communities. I have worked at HSBC for three years gaining teamwork and leadership skills.
 
-  I am most skilled in: <mark>Developing Tech Product</mark>, <mark>Community</mark> and <mark>Eating Pizza</mark>
+  I am most skilled in: <mark>Sipping Wine</mark> and <mark>Eating Pizza!</mark>
 
 # Projects Section
 # projects_title: Projects
