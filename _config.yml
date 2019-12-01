@@ -3,7 +3,7 @@ repository: bharatdeepmaan
 # favicon: images/favicon.ico
 
 # Personal info
-name: Bharatdeep Singh Maan
+name: Bharatdeep Maan
 title: Problem Solver with a Vision
 email: bharatdeep.maan@gmail.com
 #website: www.github.com/sproogen/resume-theme
@@ -22,11 +22,11 @@ linkedin_username: bharatmaan
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/pic.jpeg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Bharat and I'm currently a student at Plaksha Tech Leaders Fellowship. I have experience in making softwares, analyzing data, building ML models and developing communities. I have worked at HSBC for three years gaining teamwork and leadership skills. 
 
-  I am most skilled in: <mark>Product Management</mark> and <mark>Eating Pizza!</mark>
+  I am most interested in: <mark>Product Management</mark> - Developing innovative products which solve real customer problems and generate business value.
 
 # Projects Section
 # projects_title: Projects
