@@ -8,7 +8,7 @@
   description: | # this will include new lines to allow paragraphs
     TLF is built on four intertwined threads - Data-X coursework (AI and ML, design and systems thinking), Real-world Projects (Challenge Lab and Capstone Project), Guest Sessions by domain experts, business leaders and entrepreneurs, and Leadership and Mentorship. The Capstone is an intense AI and ML centric projects across three months at leading corporations or research labs. 
 
-- layout: right
+- layout: left
   name: NIT Kurukshetra
   link: nitkkr.ac.in
   dates: 2012 - 2016
