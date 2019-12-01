@@ -1,10 +1,20 @@
 - layout: left
+  name: Plaksha Tech Leaders Fellowship
+  link: plaksha.org/techleaders
+  dates: 2019 - Present
+  qualification: Post Graduate Program
+  quote: >
+    Established in 2019
+  description: | # this will include new lines to allow paragraphs
+    Plaksha TLF 
+
+- layout: left
   name: NIT Kurukshetra
   link: nitkkr.ac.in
   dates: 2012 - 2016
   qualification: BTech Information Technology
   quote: >
-    Established in 1963, NIT Kurukshetra is the oldest higher education institution in India, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+    Established in 1963, NIT Kurukshetra is the oldest higher education institution in India, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in India.
   description: | # this will include new lines to allow paragraphs
     During my time at NIT Kurukshetra, I learnt most of my key skills such as working as a team in the tight schedules towards a common goal . I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 

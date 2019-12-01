@@ -43,11 +43,10 @@ more_content: | # this will include new lines to allow paragraphs
   Alongside my interests in Tech, Design and Business some of my other interests and hobbies are:
    - Sports Enthusiast 
    - Gaming
-   - 
    
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 
 # Build settings
 remote_theme: sproogen/resume-theme
