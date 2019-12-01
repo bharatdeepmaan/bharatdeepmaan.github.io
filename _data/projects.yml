@@ -1,13 +1,20 @@
 - layout: left
+  name: Social Impact
+  #link: https://github.com/bharatdeepmaan/portfolio/Design Thinking/ 
+  github: bharatdeepmaan/portfolio/tree/master/Design%20Thinking
+  description: | # this will include new lines to allow paragraphs
+    Social Impact using Tech!
+
+- layout: left
   name: Design Thinking Prototypes
   #link: https://github.com/bharatdeepmaan/portfolio/Design Thinking/ 
-  github: https://github.com/bharatdeepmaan/portfolio/tree/master/Design%20Thinking
+  github: bharatdeepmaan/portfolio/tree/master/Design%20Thinking
   description: | # this will include new lines to allow paragraphs
-    I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+    "Design is to design a design to produce a design"
 
 - layout: left
   name: Machine Learning
   #link: https://github.com/bharatdeepmaan/portfolio/Design Thinking/ 
-  github: https://github.com/bharatdeepmaan/portfolio/
+  github: bharatdeepmaan/portfolio/
   description: | # this will include new lines to allow paragraphs
-    Machine Learning
+    Just some 'machines' learnt to do meaning things!
