@@ -1,8 +1,11 @@
 - layout: left
   company: HSBC Technology
-  link: hsbc.com/careers/where-we-hire/india/technology
-  job_title: Senior Software Engineer
-  dates: June 2016 - July 2019
+  #link: hsbc.com/careers/where-we-hire/india/technology
+  jobs: 
+    -title: Software Engineer
+     dates: June 2016 - February 2019
+    -title: Senior Software Engineer
+     dates: March 2019 - July 2019
   quote: >
    HSBC Technology use the latest in automation, data engineering, machine learning, cloud and biometrics to make banking simpler, better, faster and more secure for the customers.
   description: | # this will include new lines to allow paragraphs
