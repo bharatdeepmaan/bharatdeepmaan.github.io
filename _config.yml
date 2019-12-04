@@ -9,7 +9,7 @@ email: bharatdeep.maan@gmail.com
 #website: www.github.com/sproogen/resume-theme
 
 # Social links
-#twitter_username: facespics
+twitter_username: BharatdeepMaan
 github_username:  bharatdeepmaan
 # dribbble_username: jekyll
 # facebook_username: jekyll
@@ -24,9 +24,9 @@ linkedin_username: bharatmaan
 # about_title: About Me
 about_profile_image: images/pic.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name’s Bharat and I’m currently a Plaksha Tech Leaders Fellow. I have experience in developing software, training ML models, analyzing data and building tech products. I have worked at HSBC for three years gaining teamwork and leadership skills.  
+  Hi, my name’s Bharat and I’m currently pursuing a Plaksha Tech Leaders Fellowship. I have experience in developing software, training ML models, analyzing data and building tech products. I have worked at HSBC for three years gaining teamwork and leadership skills.  
   
-  I am most interested in <mark>Product Management</mark> that is developing innovative solutions which can solve real problems, provide value to customers and generate business opportunities. 
+  I am most interested in <mark>Product Management</mark>- Developing innovative solutions which can solve real problems, provide value to customers and generate business opportunities. 
 
 # Projects Section
 # projects_title: Projects
